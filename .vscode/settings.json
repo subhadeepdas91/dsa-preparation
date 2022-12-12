@@ -1,0 +1,11 @@
+{
+    "python.languageServer": "Pylance",
+    "jupyter.kernels.filter": [
+        {
+            "path": "/usr/local/bin/python3",
+            "required": true,
+            "type": "pythonEnvironment"
+        }
+    ],
+    "editor.formatOnSave": true,
+}
